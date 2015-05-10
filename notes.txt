@@ -1,0 +1,4 @@
+# This is just the markdown umbrella project - there's nothing in here except text and pointers.
+
+markdown.pl README.md > .content.html ; cat markup/pre.html .content.html markup/post.html >index.html
+zip -r collection.zip coconat-small.png coconat-icon.ico index.html screen.css  divshot.json GitHub-Mark-32px.png
