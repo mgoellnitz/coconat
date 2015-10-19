@@ -4,7 +4,7 @@
 
 This is the umbrella project for a familiy of content access libraries in different languages.
 
-They implement the most simple way to access content managed with the CoreMedia CMS version 5.2 and up. Also they are not meant to be a replacement for anything from the CoreMedia universe of tools and components. They are intended for use as an integration tool or as a low level and limited performance access library. (There are no performance problems so far. There simply is no performance to run into trouble with.)
+These libraries implement the most simple way to access content managed with the CoreMedia CMS version 5.2 and up using different languages. Also they are not meant to be a replacement for anything from the CoreMedia universe of tools and components. They are intended for use as an integration tool or as a low level and limited performance access library. (There are no performance problems so far. There simply is no performance to run into trouble with.)
 
 To access the repository database of a Replication Live Server, each flavour uses the latest means of direct database access in broader use for the given language.
 
