@@ -22,4 +22,4 @@ During the last years I very often got into the very anoying Java or PHP discuss
 
 ## Future Options
 
-It would be fun to provide versions for e.g. JavaScript (coconat-js), .NET (CoCon.NET), or Go ("GoConAT") if someone would be willing to use and help to maintain them.
+It would be fun to provide versions for e.g. JavaScript (coconat.script) and Phython (coconat.python) were I already started to write some code and would accept any help. Other ideas include .NET (CoCon.NET) and Go ("GoConAT") - again if someone would be willing to use and help to maintain them.
