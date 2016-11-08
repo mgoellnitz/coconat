@@ -1,4 +1,4 @@
-![CoConAT](https://raw.githubusercontent.com/mgoellnitz/coconat/master/coconat-small.png)
+![CoConAT](https://raw.githubusercontent.com/mgoellnitz/coconat/master/template/coconat-small.png)
 
 # CoConAT Content Access Tool
 
