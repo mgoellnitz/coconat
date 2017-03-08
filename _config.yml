@@ -1,0 +1,8 @@
+title: Coconat
+description: CoConAT Content Access Tool to access CoreMedia Content Server (CMS, MLS, or RLS) databases from Java, PHP, and potentially other languages later...
+google_analytics: UA-59511125-4
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
