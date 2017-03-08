@@ -41,7 +41,8 @@ lacks.
 A translation of the PHP based code to JavaScript is available in the 
 [coconat.script](https://github.com/mgoellnitz/coconat.script) repository as a 
 not working starting point, where especially the database access parts are 
-missing.
+missing. It is intended for NodeJS server side JavaScript use, since customers
+start moving there.
 
 ## Future Options
 
