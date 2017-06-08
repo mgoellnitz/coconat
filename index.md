@@ -16,6 +16,16 @@ To access the repository database of a Replication Live Server, each flavour
 uses the latest means of direct database access in broader use for the given 
 language.
 
+## Home Location
+
+The projects are hostet in their respective GitHub repositories as well as in
+the dedicated GitLab group at
+
+[GitLab CoConAT](https://gitlab.com/coconat)
+
+The tracking of issues and suggestions for each of the projects resides in the
+corresponding section at GitHub.
+
 ## Available Libraries
 
 Right now there are just two version available
@@ -41,7 +51,7 @@ lacks.
 A translation of the PHP based code to JavaScript is available in the 
 [coconat.script](https://github.com/mgoellnitz/coconat.script) repository as a 
 not working starting point, where especially the database access parts are 
-missing. It is intended for NodeJS server side JavaScript use, since customers
+missing. It is intended for NodeJS server side JavaScript use since customers
 start moving there.
 
 ## Future Options
