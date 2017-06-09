@@ -1,9 +1,0 @@
-{
-  "name": "coconat.divshot.io",
-  "root": ".",
-  "cache_urls": false,
-  "cache_control": {},
-  "routes": {
-    "**": "index.html"
-  }
-}

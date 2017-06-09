@@ -10,7 +10,6 @@ markdown.pl README.md > .content.html
 cat template/pre.html .content.html template/post.html >build/index.html
 cp template/*.png build
 cp template/*.css build
-cp divshot/* build
 cd build
 zip ../collection.zip *
 cd $CWD
