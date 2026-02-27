@@ -20,20 +20,20 @@ language.
 
 The projects are hosted in the dedicated CodeBerg group at
 
-[CodeBerg CoConAT](https://codeberg.org/coconat)
+[CodeBerg](https://codeberg.org/coconat)
 
 The tracking of issues and suggestions for each of the projects reside in the
 respective sections of the available libraries within the group.
 
 A consistent mirror of the code is provided at
 
-[GitLab CoConAT](https://gitlab.com/coconat)
+[GitLab](https://gitlab.com/coconat)
 
 ## Available Libraries
 
 Right now, there are just two versions available
 
-[coconat.java](https://codeberg.org/coconat/coconat.java)
+[CoConAT.java](https://codeberg.org/coconat/coconat.java)
 
 The Java version of the library is the original one. It is derived from the
 tangram project where different repository types can be used as a basis, one of
@@ -42,7 +42,7 @@ If this library here stabilizes over time, it will most likely replace large
 parts of it ancestor while the CoMA Adaptor might change into a glue layer like
 with the other repository options.
 
-[coconat.php](https://codeberg.org/coconat/coconat.php) ("Phoconat")
+[CoConAT.php](https://codeberg.org/coconat/coconat.php) ("Phoconat")
 
 During the last years I very often got into the very annoying Java or PHP
 discussion for web applications. So here it is: Access your content through PHP
@@ -52,7 +52,7 @@ still lacks.
 ## Work in Progress
 
 A translation of the PHP based code to JavaScript is available in the
-[coconat.script](https://codeberg.org/coconat/coconat.script) repository as a
+[CoConAT.script](https://codeberg.org/coconat/coconat.script) repository as a
 not working starting point, where especially the database access parts are
 missing. It is intended for Node.js server side JavaScript use, since customers
 start moving there.
